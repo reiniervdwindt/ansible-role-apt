@@ -1,0 +1,16 @@
+galaxy_info:
+  author: Reinier van der Windt
+  description: An Ansible APT Role
+  license: BSD
+  min_ansible_version: 1.2
+  role_name: apt
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+
+  galaxy_tags:
+    - apt
+
+dependencies: []
